@@ -16,7 +16,7 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 # Registration
 
-Please make sure you register here ahead of time: https://forms.gle/YCMLGjV6SXaMV6Qe6. We will be sending prepatory information to attendees in the weeks leading up to the hackathon.
+Please make sure you [register here](https://forms.gle/YCMLGjV6SXaMV6Qe6) ahead of time. We will be sending preparatory information to attendees in the weeks leading up to the hackathon.
 
 # Schedule
 
