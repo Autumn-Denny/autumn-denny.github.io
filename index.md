@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Digital Agriculture Hackathon
+Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
+ 
+At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
+ 
+An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
 
-You can use the [editor on GitHub](https://github.com/Autumn-Denny/autumn-denny.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Registration
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please make sure you register here ahead of time: https://forms.gle/YCMLGjV6SXaMV6Qe6. We will be sending prepatory information to attendees in the weeks leading up to the hackathon.
 
-### Markdown
+# Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pre-hackathon events: TBD
 
-```markdown
-Syntax highlighted code block
+Hack-day: Sun, July 17, 8am to 4.30pm
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Autumn-Denny/autumn-denny.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Demos: Wed, July 20, 10:15am to 12:15pm
