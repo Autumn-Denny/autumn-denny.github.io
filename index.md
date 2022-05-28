@@ -1,8 +1,13 @@
+[~FAQ](/faq.md)
+[~Challenge Areas](/challenge-areas.md)
+[~Schedule](/schedule)
+
+********************************************
 # Digital Agriculture Hackathon
-Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
- 
-At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
- 
+Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest.
+
+At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop.
+
 An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
 
 # Registration
